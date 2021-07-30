@@ -1,2 +1,2 @@
-# useFetch
-React hook for fetch data
+# react-use-fetch-api-hook
+React hook for the data request
