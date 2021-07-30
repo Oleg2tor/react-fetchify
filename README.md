@@ -1,2 +1,2 @@
-# react-use-fetch-api-hook
+# react-fetchify
 React hook for the data request
